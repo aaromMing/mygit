@@ -9,4 +9,8 @@ public class PepperoniPizza extends Pizza {
 		toppings.add("Sliced Onion");
 		toppings.add("Grated parmesan cheese");
 	}
+	
+	public static void main(String[] args) {
+		System.out.println("test");
+	}
 }
