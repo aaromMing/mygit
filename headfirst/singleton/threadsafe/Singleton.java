@@ -15,4 +15,6 @@ public class Singleton {
 	}
  
 	// other useful methods here
+	
+//	rename package
 }
